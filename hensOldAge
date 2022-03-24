@@ -1,0 +1,932 @@
+[
+  {
+    "name": "mina",
+    "year": "2",
+    "hash": "0x6078b1793495fabfa0fbde940d34efe34aa93dd3458dbe34802557617a571488",
+    "value": "0.360001"
+  },
+  {
+    "name": "bunny",
+    "year": "2",
+    "hash": "0xf7819f9ef5a9f6ebf68c145b286900ded49ad73ea4eb5fc79f397b0c20e4e390",
+    "value": "0.360001"
+  },
+  {
+    "name": "argent",
+    "year": "3",
+    "hash": "0x8c0cfd4968a417c12dee5796fd15e5a68577c0e2fe9a4ffc3a2a6ac1f1c90009",
+    "value": "0.54000099999999994"
+  },
+  {
+    "name": "xirang",
+    "year": "2",
+    "hash": "0x0990e6d051ac4045d65232f3244db74c1c6d16e8df9ae0dd5ecd6f0671be7df8",
+    "value": "0.360001"
+  },
+  {
+    "name": "linhuiyin",
+    "year": "3",
+    "hash": "0x9e76f93394148e92ace584be168bff9c2b1ebce9db2a37edf3b3d701c4b15f55",
+    "value": "0.54000099999999994"
+  },
+  {
+    "name": "mata",
+    "year": "2",
+    "hash": "0x8a2afb9ed02d42d4330a826f98e7335260e236f9d4b4361c1473f5d533616d08",
+    "value": "0.360001"
+  },
+  {
+    "name": "supermeta",
+    "year": "2",
+    "hash": "0x0b637e247cf1bb0715c25e6c630176e8ea64c322109c895c841aff17d8242a12",
+    "value": "0.360001"
+  },
+  {
+    "name": "metaworld",
+    "year": "2",
+    "hash": "0x534f1617782f01cf7677ecbaef753442e163c25c6bb5cb6304d534531730b3d3",
+    "value": "0.360001"
+  },
+  {
+    "name": "paybank",
+    "year": "2",
+    "hash": "0xf8b4a63a1e34c9642358af18177420ed2b7d8ae6c09dc34012a9e0436391f3ed",
+    "value": "0.360001"
+  },
+  {
+    "name": "justin",
+    "year": "2",
+    "hash": "0xe2619eb96a3a6774c3a4787132390e09b5e7feced66e201cf8f2e0e6b9bff920",
+    "value": "0.360001"
+  },
+  {
+    "name": "bible",
+    "year": "2",
+    "hash": "0xd945b311d10d04bf33080246a74bad0af2d01aaa94918670176d7bd0f81ec8ab",
+    "value": "0.360001"
+  },
+  {
+    "name": "nick",
+    "year": "3",
+    "hash": "0x147390d47a8d4e410efb339513c010a5fdfd7daee27d9a0df3db3010a2d845b8",
+    "value": "0.54000099999999994"
+  },
+  {
+    "name": "malt",
+    "year": "2",
+    "hash": "0xa4f640a41bf53ed23e0d51675655f914b2d4466db2f1c0759966f5f7405e29f2",
+    "value": "0.360001"
+  },
+  {
+    "name": "malt00",
+    "year": "2",
+    "hash": "0xa8823aec151f30fa685fd9e20a171734900f086e30dc1d9b575c01594d922513",
+    "value": "0.360001"
+  },
+  {
+    "name": "joker",
+    "year": "2",
+    "hash": "0xe007082f8f331f35f2b5bdaca5dcc1019e1f394f6d0d64e88d822941ad338584",
+    "value": "0.360001"
+  },
+  {
+    "name": "oasis",
+    "year": "3",
+    "hash": "0x44cbe660a6b02fadf53f3a1dc67a2954dd10a432cac9e3c61e4c91c2812d096a",
+    "value": "0.54000099999999994"
+  },
+  {
+    "name": "node",
+    "year": "10",
+    "hash": "0x6c9125c364737ab617b512127b197a70812d0b537ec1074c3020fb75e1045554",
+    "value": "1.800001"
+  },
+  {
+    "name": "media",
+    "year": "3",
+    "hash": "0xb0cbbbd9a9b684ef6a579a746574ba7b4269f6ca80a3609ddd04ee42597039a9",
+    "value": "0.54000099999999994"
+  },
+  {
+    "name": "winer",
+    "year": "2",
+    "hash": "0x1e7d5a22da85e6d9d9150dab91e9638998b6013d14d28aaefbfc6bbcda3e489b",
+    "value": "0.360001"
+  },
+  {
+    "name": "suoya",
+    "year": "4",
+    "hash": "0xb67dd8282840b21cd8f9039ee9d551f8cbe36270639d0145bfa4cf9702451541",
+    "value": "0.720001"
+  },
+  {
+    "name": "hindsightcapital",
+    "year": "10",
+    "hash": "0x65e26fc8a1c99825ddee3eee72716b48625a7bd02ec2de10931451b9b4296871",
+    "value": "1.800001"
+  },
+  {
+    "name": "liyiheng837",
+    "year": "3",
+    "hash": "0xcf419091062c6ced7eb5e2cf5a73ebb7402fa7b1a18a50b579c743dcc5322c25",
+    "value": "0.54000099999999994"
+  },
+  {
+    "name": "bill",
+    "year": "2",
+    "hash": "0x97f5288b7343572c80f7cac882d9fed1690317e029ccef6e9429c0259060b4e6",
+    "value": "0.360001"
+  },
+  {
+    "name": "cryptomorty",
+    "year": "5",
+    "hash": "0x4a65cadaa33d203c31f54cbc1b4c3d2b806b27306a2b38a15c07c1520753f7be",
+    "value": "0.900001"
+  },
+  {
+    "name": "nothing",
+    "year": "2",
+    "hash": "0x6e584e2046380970e32d38d9fafaa8cac7a523d00a54c676e9b31eb2cc362fb8",
+    "value": "0.360001"
+  },
+  {
+    "name": "healthy",
+    "year": "3",
+    "hash": "0x93b22afefc6426b5d967e03a7cdfafa0a74bdcbb7175eaaf192df219e85d83f3",
+    "value": "0.54000099999999994"
+  },
+  {
+    "name": "etcweb3",
+    "year": "3",
+    "hash": "0x0ff62af5d5818322c3f9f1ef986c819a8915312b02ada79363d5cb3d9143b5ff",
+    "value": "0.54000099999999994"
+  },
+  {
+    "name": "etcdefi",
+    "year": "3",
+    "hash": "0xb8d2cdfa2538b3d5a2edbe603382707268f4d34149efca021640fb06928c103d",
+    "value": "0.54000099999999994"
+  },
+  {
+    "name": "mahasri",
+    "year": "2",
+    "hash": "0x1427ab1b0c3d55619804a724e3081f02d9e58ccc4aa17fb7a9db94d8d49f7dd8",
+    "value": "0.360001"
+  },
+  {
+    "name": "echoamireux",
+    "year": "2",
+    "hash": "0xfb06db38239052503fd0ffbd3bab349de9b6a19de2ec4beaa0ea0f7645ea4e7b",
+    "value": "0.360001"
+  },
+  {
+    "name": "0xlab",
+    "year": "2",
+    "hash": "0x42833cdd7383dcf370856192a51619297114b7609b3dfbe7c7f4fe8e8a5cfbb8",
+    "value": "0.360001"
+  },
+  {
+    "name": "miner",
+    "year": "2",
+    "hash": "0x6e6e2a45831989af4ed5a4dea52fd93e33f5fb5bd99980a5e18468ebd1cbe1d7",
+    "value": "0.360001"
+  },
+  {
+    "name": "etcstation",
+    "year": "2",
+    "hash": "0x32547bf2d5ef5bfc7e044777aafe673c0d0842b7156c7b400b8f92f15c7553c0",
+    "value": "0.360001"
+  },
+  {
+    "name": "cope",
+    "year": "6",
+    "hash": "0x5b39eccd1262cbd7bf9f40712b2e87ad91dfcd8f576feab46963609a3f3e17b8",
+    "value": "1.080001"
+  },
+  {
+    "name": "lama",
+    "year": "3",
+    "hash": "0x1a4af1deef453042a2b92b7ba60c794b0cbbcf0b8647466f0d3014ac58afba07",
+    "value": "0.54000099999999994"
+  },
+  {
+    "name": "to the moon",
+    "year": "2",
+    "hash": "0x1e003bf8a881ee0b8793ba3e577112d591d6e6f3b19f3fb9cc895f9a60868f16",
+    "value": "0.360001"
+  },
+  {
+    "name": "xavi",
+    "year": "2",
+    "hash": "0xacf230a2cda1a8ee9a3ebb03cb61aa276c1569cb45e397e8d7213c1b91307819",
+    "value": "0.360001"
+  },
+  {
+    "name": "payme",
+    "year": "2",
+    "hash": "0xf5801d453e740a43948ee15bb4dc56d6c3a030b8483757ef33c553874bff1d39",
+    "value": "0.360001"
+  },
+  {
+    "name": "raysys",
+    "year": "3",
+    "hash": "0x9b75aa3f64eb82a84b35d177df12f668564c4fd64206699ef65b5a9e901f73db",
+    "value": "0.54000099999999994"
+  },
+  {
+    "name": "homiedaddy",
+    "year": "5",
+    "hash": "0x47570e8a52a6c0263707f899ef0f695d0d7bc98dfe6d6cd6866c2d6ed59f7a52",
+    "value": "0.900001"
+  },
+  {
+    "name": "allinshi",
+    "year": "2",
+    "hash": "0x9c59863408ce8c3e670acfa85dcfe167d82c57e6f1e5691f9be719b937d447c5",
+    "value": "0.360001"
+  },
+  {
+    "name": "8848community",
+    "year": "3",
+    "hash": "0x943ed1ef2a0af574c29209d5ebc27e88e82f328e82b44ae073ce49c8aab88936",
+    "value": "0.54000099999999994"
+  },
+  {
+    "name": "akari",
+    "year": "3",
+    "hash": "0x21bd236f779e09935f67976113876d601fde5c66a87ff246b8bdc2b5836a1724",
+    "value": "0.54000099999999994"
+  },
+  {
+    "name": "theredpill",
+    "year": "2",
+    "hash": "0xb0f117f28655f739cb250e38f13e49ce7ef39effc74ddbb3f117b3bf27df5780",
+    "value": "0.360001"
+  },
+  {
+    "name": "starknet",
+    "year": "3",
+    "hash": "0x6e68d4dd8e9def5a92593ec30f214bd8ab968d3663136db1560732ad94d400d9",
+    "value": "0.54000099999999994"
+  },
+  {
+    "name": "maticcoin",
+    "year": "3",
+    "hash": "0xfbdf60ccedc444e379a578d159cf6d6d790e1a6ee6405aba9d07b459096d466c",
+    "value": "0.54000099999999994"
+  },
+  {
+    "name": "ethcoin",
+    "year": "3",
+    "hash": "0x6bc679ad08033457350ed9dd08e5a206736cd5882007b52ecef82ff47f567880",
+    "value": "0.54000099999999994"
+  },
+  {
+    "name": "dfinity",
+    "year": "3",
+    "hash": "0x4ad994540e0280d18f8379f29ae87d8736a6fcc74e4a3601000e071eb1fe442b",
+    "value": "0.54000099999999994"
+  },
+  {
+    "name": "ethchain",
+    "year": "3",
+    "hash": "0x6fada9cf0084bfcf23c0c2b7067a0b935d00c5216be4730453c3e05d4e2169bf",
+    "value": "0.54000099999999994"
+  },
+  {
+    "name": "jason",
+    "year": "2",
+    "hash": "0x81e32b20054704ba4c1f999771b1b84c3ee4363c5962541a465b55c0790f9c76",
+    "value": "0.360001"
+  },
+  {
+    "name": "aicyq",
+    "year": "3",
+    "hash": "0x34bcce9c4b743c7ab7e7c4bf28e747acfeade44274e7ac62f0bf7309758b99f9",
+    "value": "0.54000099999999994"
+  },
+  {
+    "name": "thehomedepot",
+    "year": "6",
+    "hash": "0xbe9d7d1b1519be23ba3ca6bb11ce0244601409377bbb767285c77bd93ad55d9b",
+    "value": "1.080001"
+  },
+  {
+    "name": "target",
+    "year": "6",
+    "hash": "0x3d882f9eaf2b7d856fb8982ac514438758698678cef19ed75f970e53a5bad412",
+    "value": "1.080001"
+  },
+  {
+    "name": "wayfair",
+    "year": "6",
+    "hash": "0x1662eaaa42a518ce7613d82d1d2e9007a34152ba3437231c127557d7f7d63016",
+    "value": "1.080001"
+  },
+  {
+    "name": "stake",
+    "year": "2",
+    "hash": "0x886bf72032017818eee61e85428f13bd24a74d4ad3e77a9d267a27114523d4ff",
+    "value": "0.360001"
+  },
+  {
+    "name": "enthef",
+    "year": "7",
+    "hash": "0xd3f498cd491eee262be8559938b5b0b6e79f4764c8a1f2a2316a3d007c2fb638",
+    "value": "1.260001"
+  },
+  {
+    "name": "adam",
+    "year": "20",
+    "hash": "0x3691e2e12c55aaee5dbdaeda384e75ff65e88955ba11a410f92cdc3ec37e7260",
+    "value": "3.600001"
+  },
+  {
+    "name": "putin",
+    "year": "2",
+    "hash": "0xca5f75b0f7648cd6fcda234d21b6c6712f08b41102098882d8d3fe531c4a123f",
+    "value": "0.360001"
+  },
+  {
+    "name": "poker",
+    "year": "20",
+    "hash": "0x1507a08742c590fe149f3d7874e0287a53696b82e273c1336ee5d40011d6cae1",
+    "value": "3.600001"
+  },
+  {
+    "name": "knowledge5225",
+    "year": "10",
+    "hash": "0x6548b008e47de217dd5ac94cf2a4027f7c7a238b22ee101f0b05d82c3cbcabed",
+    "value": "1.800001"
+  },
+  {
+    "name": "mental health",
+    "year": "10",
+    "hash": "0x5e05278649a8521f7bf37d7cd674534af1fb27d73568dc0d10b4cff9d75fcf39",
+    "value": "1.800001"
+  },
+  {
+    "name": "emirates",
+    "year": "20",
+    "hash": "0xddf82d6a8022334fbb4b74c3aa103c1978b093d604a87b2a265003d7ea00cb6d",
+    "value": "3.600001"
+  },
+  {
+    "name": "0xbb9bac8bd0...10bf0fafc64c",
+    "year": "20",
+    "hash": "0x1b68631178fb48c9ae4f7272d2cf4380850c7493dbddb66cf5fada255127fb50",
+    "value": "3.600001"
+  },
+  {
+    "name": "clonex",
+    "year": "3",
+    "hash": "0xbbfbc8b8688e998c96ed50e9bbfe1e17bf18228fb7e9e06345418b7126d76092",
+    "value": "0.54000099999999994"
+  },
+  {
+    "name": "sandbox",
+    "year": "3",
+    "hash": "0xa66df5ee0a7045696d1dec5bb935b01d68f478f31553b091e4668910aec5fd26",
+    "value": "0.54000099999999994"
+  },
+  {
+    "name": "coinswap",
+    "year": "2",
+    "hash": "0xeeae48f3e5292da2989af93ac04f01e42d8f3f5de3aaa09950bfe6951abc3cfc",
+    "value": "0.360001"
+  },
+  {
+    "name": "etcbitpixel",
+    "year": "2",
+    "hash": "0x76efe3242569b9d3c17fc54081c41a5b71b23640b1c871e915010ba8c77243b2",
+    "value": "0.360001"
+  },
+  {
+    "name": "etcmayc",
+    "year": "2",
+    "hash": "0xfca09052bc2f4964dfb1bc94f6921a9d7e0ab3d0f8704182e70c1236d095ddb5",
+    "value": "0.360001"
+  },
+  {
+    "name": "pepsi",
+    "year": "2",
+    "hash": "0xf116a0848a285b3448f1cb09f7c05879df8d63f14a3d4d5591a8f0ee239f36b0",
+    "value": "0.360001"
+  },
+  {
+    "name": "1888",
+    "year": "5",
+    "hash": "0xcd80aa29675e2815ec7d77c66d95cc6412098daa1a86431e19bdf490e98fcbeb",
+    "value": "0.900001"
+  },
+  {
+    "name": "etc nft",
+    "year": "2",
+    "hash": "0x0d18d0cfc56b36b241a4d563fabdbfc5c45ea3c06578030b3a7e8a71d4c552bb",
+    "value": "0.360001"
+  },
+  {
+    "name": "bitmos",
+    "year": "3",
+    "hash": "0xf164b7d328600c00999c0543c0d289d82c35c7ff0c291305f8f452ea4a57cac1",
+    "value": "0.54000099999999994"
+  },
+  {
+    "name": "jianghe",
+    "year": "3",
+    "hash": "0xa2a7ced2fd778f6099a6746ea17071c21e6e912e18451ee633bbd353e1287d8b",
+    "value": "0.54000099999999994"
+  },
+  {
+    "name": "tobi",
+    "year": "2",
+    "hash": "0x7648bce756c6fa6d1c2441e25f1a99c29d5f00dc9aa90bf8d74a7655000e36cc",
+    "value": "0.360001"
+  },
+  {
+    "name": "maotai",
+    "year": "2",
+    "hash": "0x55a685e0b874cefebd74a5b7b37dfc109a530801ff3ac78fb3424ccf86b3de6f",
+    "value": "0.360001"
+  },
+  {
+    "name": "hycinex",
+    "year": "4",
+    "hash": "0x10554153c5efc3bc5f886915295a24459464ff84196501ea9e8d52b25ec4aa8e",
+    "value": "0.720001"
+  },
+  {
+    "name": "mikado",
+    "year": "2",
+    "hash": "0x6ec593e01843d048fe67c127bf7ee62f826d0063523de7a170e24f410bc6fa35",
+    "value": "0.360001"
+  },
+  {
+    "name": "bigbeton",
+    "year": "3",
+    "hash": "0x9aaf1be762cc46ebadfb6dbc8557c1ec6604437e904c8b77e3535db2abc854c0",
+    "value": "0.54000099999999994"
+  },
+  {
+    "name": "etcbaycsales",
+    "year": "3",
+    "hash": "0x46589b06c7ec5ec1b82611280fa18938705007e3f35a497bfc1a959954eddd78",
+    "value": "0.54000099999999994"
+  },
+  {
+    "name": "milad",
+    "year": "20",
+    "hash": "0x3e33ec8e2cc6305820acec8c83091b139b78e6478bf55ab2db2c68409246ccda",
+    "value": "3.600001"
+  },
+  {
+    "name": "paperboystudios",
+    "year": "5",
+    "hash": "0x8b915c615dc9b5e701b29c81d109848b519f80ac057807fd2c4cf7aed07ccecc",
+    "value": "0.900001"
+  },
+  {
+    "name": "nicholas",
+    "year": "2",
+    "hash": "0xa1ee1f89059a7ddb25b34f26e61978ffffdaad38e0400938ccceeae9ae22acff",
+    "value": "0.360001"
+  },
+  {
+    "name": "farm",
+    "year": "5",
+    "hash": "0x91d0eb77439d2b8d5e745db319abb6e70f3c8b26a465bd91ddfbf03133008215",
+    "value": "0.900001"
+  },
+  {
+    "name": "block",
+    "year": "5",
+    "hash": "0x087fa102377bbb068fc45c8ec4920a241f890ce4fcc963128f539706be464ac7",
+    "value": "0.900001"
+  },
+  {
+    "name": "bridge",
+    "year": "5",
+    "hash": "0x3d677843ea1ba869d9328eb924f4a3b9b12eaca859c769f4442976a1f401f70b",
+    "value": "0.900001"
+  },
+  {
+    "name": "chinese",
+    "year": "3",
+    "hash": "0xa37979b9f780ea0d5262f175227e06d066037b1c4c035c8456e14666738472cc",
+    "value": "0.54000099999999994"
+  },
+  {
+    "name": "etcdao",
+    "year": "3",
+    "hash": "0x96ca988f05d63b6302805b395f01f1e9e1885ae143a622639af5554bc3865c58",
+    "value": "0.54000099999999994"
+  },
+  {
+    "name": "pump",
+    "year": "3",
+    "hash": "0xf0bfe98acb901eee2eed1699c23dabec00a7d7e5d5c50ef17f72e7267813fa48",
+    "value": "0.54000099999999994"
+  },
+  {
+    "name": "3etc3",
+    "year": "5",
+    "hash": "0xb83c13443ca76c1ec52fc3274d4273dd9b5934950f546685db3242843eeb3603",
+    "value": "0.900001"
+  },
+  {
+    "name": "911",
+    "year": "5",
+    "hash": "0xe8f803298d4ceb735a180e54340f5abf7069a7a4af67e491cce432487d7e7938",
+    "value": "4.800001"
+  },
+  {
+    "name": "fish",
+    "year": "5",
+    "hash": "0x182d21cb57814bdd539a8b586b1844292adf0f2b00d8bad141b27a45dbc2f357",
+    "value": "0.900001"
+  },
+  {
+    "name": "a16z",
+    "year": "5",
+    "hash": "0xb4e02182869ffbe11681dbf35edebad1cb3287c46aeeafb4f3cdcbc2b0956284",
+    "value": "0.900001"
+  },
+  {
+    "name": "lighty",
+    "year": "2",
+    "hash": "0xb5456459aa76f1b4e693cc7ae6e9268fa6c294b3d59a27bced18747bb709bfc3",
+    "value": "0.320001"
+  },
+  {
+    "name": "greencats",
+    "year": "3",
+    "hash": "0x80c5138183c58d218e85672ae4a6a866215a23b59de5e9d9efa68acec0b41342",
+    "value": "0.480001"
+  },
+  {
+    "name": "i0s_tweak3r",
+    "year": "2",
+    "hash": "0xb7be0e1b2fdebee79cd7275230ec6a8bfd299332f4105f4173f57f1e58bae0f4",
+    "value": "0.320001"
+  },
+  {
+    "name": "devs",
+    "year": "2",
+    "hash": "0x0f7002cbf7699ed854b017e1562c69f54b965c1185dba378fe842ec686adba1f",
+    "value": "0.320001"
+  },
+  {
+    "name": "alen",
+    "year": "2",
+    "hash": "0xc357f692c1cff8ca99c13bb8140c18447921caf02619584e7eb9c14691490b77",
+    "value": "0.320001"
+  },
+  {
+    "name": "thecrowbill",
+    "year": "5",
+    "hash": "0xf111ac75e28e9cc9b4048683026df952d77623eee09f8c99be01495a8abe2317",
+    "value": "0.800001"
+  },
+  {
+    "name": "classicart",
+    "year": "2",
+    "hash": "0xd64d490197f9073e9511d18247b3fbfb62503df80c0ddb68897657ba38c9e73d",
+    "value": "0.320001"
+  },
+  {
+    "name": "china",
+    "year": "2",
+    "hash": "0xea2dedf3948c01a704822730e961a4843c955ae7beffc6e0d1347c35f6e3a348",
+    "value": "0.320001"
+  },
+  {
+    "name": "houlinyan",
+    "year": "3",
+    "hash": "0xeb99ec70b361311a5969237cee5d3853a1fc299eb656a3bed067a15eea1c7126",
+    "value": "0.480001"
+  },
+  {
+    "name": "fyzs668899",
+    "year": "3",
+    "hash": "0x65a537929fb064a281fbab2d9bb0f0547f251f0d7ca445bc09955af14096d03b",
+    "value": "0.480001"
+  },
+  {
+    "name": "mars",
+    "year": "5",
+    "hash": "0x4da2c66a7dc947d67ec9c9342cbbc5f960788d3cb27e254ede4db9c3a05ed481",
+    "value": "0.800001"
+  },
+  {
+    "name": "edison",
+    "year": "3",
+    "hash": "0x3b3df162400d8e9d83056285bf5fd137e3262a34f975a70ec65fb8b3d57b922d",
+    "value": "0.480001"
+  },
+  {
+    "name": "argene",
+    "year": "10",
+    "hash": "0x038af25ae8bdab86fc27aa12d737e1c0cfbb21887eb23b0823c57e8eeaa2e1c5",
+    "value": "1.600001"
+  },
+  {
+    "name": "ethxf",
+    "year": "2",
+    "hash": "0xc64298eee810c650f51ff058da1ef69b3b20fd409f524156c64c93d1352b0713",
+    "value": "0.320001"
+  },
+  {
+    "name": "wangyu520",
+    "year": "3",
+    "hash": "0x13b27b282dbbcf04beec6dce4c026ae99c02ea0cbd4db7073877020dfd9496f2",
+    "value": "0.480001"
+  },
+  {
+    "name": "gamefi",
+    "year": "3",
+    "hash": "0x1d4f9cb3c102aa0c56a1696f774edb9824ea991376bc33ad4e68557c89ec37f6",
+    "value": "0.480001"
+  },
+  {
+    "name": "frank",
+    "year": "5",
+    "hash": "0x5c1ba391479708be98b94930c036f45484eabd4df3e5ba655658eaaf04c18a7d",
+    "value": "0.800001"
+  },
+  {
+    "name": "shadow_curator",
+    "year": "2",
+    "hash": "0x9fa4bfb7f43721a7fc4ce9f2c669a6fc8a06a9a07f60dbcc84c7b5c5aeefa04c",
+    "value": "0.320001"
+  },
+  {
+    "name": "chipit",
+    "year": "2",
+    "hash": "0x475f9ed55cd68178481912e3e1ec7e7801ac09e47a40a33e48665cc51425c6b5",
+    "value": "0.320001"
+  },
+  {
+    "name": "blockscout",
+    "year": "2",
+    "hash": "0x788f4311e7f91d89c71ec5be7f574355bdec3007e6925879f1529d7e73b3a495",
+    "value": "0.320001"
+  },
+  {
+    "name": "classicrewards",
+    "year": "5",
+    "hash": "0xe69c6757a41a99e70ebf1ca66c78e4156bdc1d475ab350515c84bd2e3476fa72",
+    "value": "0.800001"
+  },
+  {
+    "name": "coinbase",
+    "year": "3",
+    "hash": "0x8afac8460c52e4a1288176fe69c0559e123a762f359c3f7a519c797a4a4993e6",
+    "value": "0.480001"
+  },
+  {
+    "name": "cyberpunk",
+    "year": "3",
+    "hash": "0x1b2210bbcf272445e2374bac23cfc10da47bd1ce2fbb22a8649ef5c0b3cbf55c",
+    "value": "0.480001"
+  },
+  {
+    "name": "zcash",
+    "year": "3",
+    "hash": "0x06412eefb417f7b893941cd79bcc53414422136239b2f57bf8107f10a910211b",
+    "value": "0.480001"
+  },
+  {
+    "name": "rich",
+    "year": "3",
+    "hash": "0xfe17d55c0148b70fa9c8985f69a0dcb96e2e435e904167fcac43a4b7e4a10b52",
+    "value": "0.480001"
+  },
+  {
+    "name": "samsung",
+    "year": "3",
+    "hash": "0x227e5c7a78d639581845a6b2cba82d3d08b30a87c2f7b8e06dfc7b28f0f6448f",
+    "value": "0.480001"
+  },
+  {
+    "name": "korea",
+    "year": "3",
+    "hash": "0x1b57a6bd3cb4620f28f5d5499d4ca94b061ad20dbf7775353ac6652c7d83c75b",
+    "value": "0.480001"
+  },
+  {
+    "name": "kroh13",
+    "year": "5",
+    "hash": "0x0e6b6d1f8684b2629ec6137b0731c27f86980384d7c4c6001cbe227622e21be8",
+    "value": "0.800001"
+  },
+  {
+    "name": "classicsavages",
+    "year": "2",
+    "hash": "0xe5381233654626bc14a842429d54519b53b375f61018795f2ac5780d1064910a",
+    "value": "0.320001"
+  },
+  {
+    "name": "savageprofits",
+    "year": "6",
+    "hash": "0xe905b096f83e620e6037f189540d3216600eb0c09a4ce7f09215bc3739e28143",
+    "value": "0.960001"
+  },
+  {
+    "name": "bisq",
+    "year": "5",
+    "hash": "0x34e73f238851398fee06bf1b8f05b1b560eeee40c9fd5142ac3b47b72fe95cde",
+    "value": "0.800001"
+  },
+  {
+    "name": "anti",
+    "year": "6",
+    "hash": "0x8e1627c250397a13661e67b6916ee2f910dcd726ef7b224e133aa4a03fa2c251",
+    "value": "0.960001"
+  },
+  {
+    "name": "reyes",
+    "year": "6",
+    "hash": "0xc63b51a3b83305973dae5e2650f10c465718c4e5bc94ba307246bdf91af50050",
+    "value": "0.960001"
+  },
+  {
+    "name": "nano",
+    "year": "6",
+    "hash": "0x447e87708bbfc87739d404b6bd2b009cb657c726aad90cc17327f6dcf5dcaf10",
+    "value": "0.960001"
+  },
+  {
+    "name": "cheddaroats",
+    "year": "2",
+    "hash": "0xa1be31864b6a4e34f886d0bd70858c5dcdf40b1010b06a8a7e641a23ced74f4a",
+    "value": "0.320001"
+  },
+  {
+    "name": "buzzlite",
+    "year": "5",
+    "hash": "0xb2c61cbca9cc9771907c37cdc0a89829b1abefc01d75dc68c2b7df20d65cbde1",
+    "value": "0.800001"
+  },
+  {
+    "name": "brady",
+    "year": "2",
+    "hash": "0xab9b4e1586b77025229680da6cd7e1b6f83840dbf1824ae6676b7f1841a2e6c6",
+    "value": "0.320001"
+  },
+  {
+    "name": "micado",
+    "year": "2",
+    "hash": "0xea5104b1d68477791e8d197787aabf5aab20f94c33c553688fad9886e791ebcf",
+    "value": "0.320001"
+  },
+  {
+    "name": "dapps",
+    "year": "3",
+    "hash": "0xc5e1604ede05b48cf8a3e3e8925b6d7fc6ee21e26a589a2835ab725ec7a9d750",
+    "value": "0.480001"
+  },
+  {
+    "name": "highway",
+    "year": "6",
+    "hash": "0xfeb6c0b9a1f36de6a480205e74c72862d6f66a440bda3ba571eeb76432cb27d7",
+    "value": "0.960001"
+  },
+  {
+    "name": "facebook",
+    "year": "2",
+    "hash": "0xc0b01972f2a61c2afa8e51194fc5e73d29e2b35400b01098f686fafdb8f50276",
+    "value": "0.320001"
+  },
+  {
+    "name": "adidas.co.uk",
+    "year": "3",
+    "hash": "0x58308d8e851a4cc325fc53805daf0c6b1f4dc537cc047d6e5ebf1a9ad405e965",
+    "value": "0.480001"
+  },
+  {
+    "name": "nike.com",
+    "year": "3",
+    "hash": "0x4a344d76a4c58ae443a64401814d5c8cbc8028359eb45894e994eaad54acc5a7",
+    "value": "0.480001"
+  },
+  {
+    "name": "etcbayc",
+    "year": "3",
+    "hash": "0x6990d08e549e615e19c6863d4d708bbdba32f3f0223568555d6269c53c68880f",
+    "value": "0.480001"
+  },
+  {
+    "name": "cryptosketch",
+    "year": "3",
+    "hash": "0x5ce69d2d05d41a88bb062d0f378f2808ad35490a1661d6bc41c17bda151da075",
+    "value": "0.480001"
+  },
+  {
+    "name": "breakoutrob",
+    "year": "10",
+    "hash": "0x77ea74672b08882a505e61fc49ada4a4996532a3ff200b66e0b1524484eb6727",
+    "value": "1.600001"
+  },
+  {
+    "name": "cryptocurrency",
+    "year": "3",
+    "hash": "0xcf74e96877de9822c983d0ad845feb93c8974f218a320a92b343d048d6940732",
+    "value": "0.480001"
+  },
+  {
+    "name": "anonymous",
+    "year": "4",
+    "hash": "0xfeb22cb37eea1d226a698fb426ad0ae821511e466091a21d279205bdfd258b6c",
+    "value": "0.640001"
+  },
+  {
+    "name": "elonmusk",
+    "year": "3",
+    "hash": "0x9a4af2dc4de3d2ec7778bd4e40903199cbd2e01fe503a38d40234b50efdd1653",
+    "value": "0.480001"
+  },
+  {
+    "name": "poap",
+    "year": "2",
+    "hash": "0x955856ab6b7e818ecacc5e14586d217f3352d9e9d594be0cd7a230e22179f8ec",
+    "value": "0.320001"
+  },
+  {
+    "name": "teen",
+    "year": "5",
+    "hash": "0x8ac2c82f83aae1f13e605532c5b3859d65f5e3efa2c23bbc8a22cdbca6ed4c31",
+    "value": "0.800001"
+  },
+  {
+    "name": "signal",
+    "year": "2",
+    "hash": "0x31102b3b61b32e7a88b99bb9393e02d4dd7e37befda6a401b5944ece1c1259d6",
+    "value": "0.320001"
+  },
+  {
+    "name": "josellorca",
+    "year": "4",
+    "hash": "0x36c51f7f1462177369d3f6e34281c6a3041ff0831184c85989adcdfc93819178",
+    "value": "0.640001"
+  },
+  {
+    "name": "arman",
+    "year": "2",
+    "hash": "0x392030bbea3223912fd8f1ef5f75665718dd7bbfc4d3a3ecb66d896ba85a68e5",
+    "value": "0.320001"
+  },
+  {
+    "name": "satoshinakamoto",
+    "year": "4",
+    "hash": "0xf0747e8b0e3aed0c490173e708244651eb0cdc56a1657a7297b1b9696d221b94",
+    "value": "0.640001"
+  },
+  {
+    "name": "satoshi",
+    "year": "4",
+    "hash": "0x9b7ca8baa5576275c2647b5eb1fd55760342a69f332c0f799649ee4a4b653ae5",
+    "value": "0.640001"
+  },
+  {
+    "name": "dbutt",
+    "year": "2",
+    "hash": "0x905272d1820e86d6e012366a331897fef167eeea909a4e73e2f80e1e42ae9f8e",
+    "value": "0.320001"
+  },
+  {
+    "name": "dbut",
+    "year": "2",
+    "hash": "0x5048f067ccd23a16219147718bb9269f401aa63f58a29c943f0dd10a60466377",
+    "value": "0.320001"
+  },
+  {
+    "name": "joseph",
+    "year": "4",
+    "hash": "0xa60e881c11e37420d9dbc167c194021f59791ed5e7b0197f22e3233d8e9b922c",
+    "value": "0.640001"
+  },
+  {
+    "name": "elplan",
+    "year": "4",
+    "hash": "0x6650f1037c7d6a67a255f8663b8246a876246907045e2acaaeffb0ed695d730e",
+    "value": "0.640001"
+  },
+  {
+    "name": "leefbiant",
+    "year": "10",
+    "hash": "0x21699b8c635f19cb2fd8ba0594b14f57d056dddf88232a663ab945dbeced095b",
+    "value": "1.600001"
+  },
+  {
+    "name": "ethereumclassic",
+    "year": "15",
+    "hash": "0xc9a964790ec3e8af61e2e689269a618791ff51f777b5d641ec54d21879c2f071",
+    "value": "2.400001"
+  },
+  {
+    "name": "ethereum",
+    "year": "20",
+    "hash": "0x212d4f7c0f5b52c2d6a662eeb48aac942a05d97e35a7bce89ad4003f54458975",
+    "value": "3.200001"
+  }
+]
